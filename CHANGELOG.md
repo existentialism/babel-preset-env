@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.0 (2018-05-11)
+
+### :rocket: New Feature
+
+- Update browserslist to the latest ([#458](https://github.com/babel/babel-preset-env/pull/458)) (@devongovett)
+
 ## v1.6.1 (2017-10-17)
 
 ### :bug: Bug Fix
